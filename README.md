@@ -10,6 +10,9 @@
 
 
 ## hey wanna add morte section
+p
+
+please fork thwe repostitnjk for some use
 
 #four type of stage in git
 
