@@ -1,5 +1,5 @@
 # some file
-Adding a line for reabasing
+Adding a line for reabasing, then more changes from myfeature branch too
 
 
 # deploement
